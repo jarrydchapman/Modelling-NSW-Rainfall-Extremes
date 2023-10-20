@@ -1,0 +1,9 @@
+## NHPP Model Validation {#sec-nhppval}
+
+![Model validation for the subseasonal NHPP at Richmond UWS Hawkesbury, showing that the NHPP model provides a suitable fit.](images/Richmond_Subseasonal.png){#fig-subrich}
+
+![Model validation for the seasonal NHPP at Richmond UWS Hawkesbury, showing that the NHPP model provides a suitable fit.](images/Richmond_Seasonal.png){#fig-searich}
+
+![Model validation for the subseasonal NHPP at Kurrajong Heights, showing that the NHPP is an appropriate model.](images/Kurrajong_Subseasonal.png){#fig-subkurr}
+
+![Model validation for the seasonal NHPP at Kurrajong Heights, showing that the NHPP may not be an appropriate model.](images/Kurrajong_Seasonal.png){#fig-seakurr}
